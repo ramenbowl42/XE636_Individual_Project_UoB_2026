@@ -7,7 +7,7 @@ This repository contains the empirical data logs and visual simulation results f
 ---
 ### 🎥 References
 All references used for the poster.
-* References_Document(./References.pdf)
+* References Document(./References.pdf)
 
 
 ### 🎥 Visual System Demonstrations
