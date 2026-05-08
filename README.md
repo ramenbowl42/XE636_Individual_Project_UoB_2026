@@ -7,7 +7,7 @@ This repository contains the empirical data logs and visual simulation results f
 ---
 ### Code
 The Python scripts and Verilog Code for the project
-
+* [HIL Simulation Script](hil_simulation_v2.py)
 ---
 ### 🎥 Visual System Demonstrations
 *Watch the closed-loop system dynamically calculate Danger, Steering, Throttle, and Brake across the nuScenes dataset.*
