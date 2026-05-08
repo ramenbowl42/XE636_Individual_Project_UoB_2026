@@ -5,6 +5,10 @@
 This repository contains the empirical data logs and visual simulation results for a custom Hardware-in-the-Loop (HIL) architecture. The project contrasts the non-deterministic latency of a CPU/GPU perception pipeline against the deterministic, zero-jitter actuation of a Verilog Finite State Machine on an Artix-7 FPGA. Furthermore the project deploys an Autonomous Braking System using the GPU and FPGA in a hybrid configuration.
 
 ---
+### Code
+The Python scripts and Verilog Code for the project
+
+---
 ### 🎥 Visual System Demonstrations
 *Watch the closed-loop system dynamically calculate Danger, Steering, Throttle, and Brake across the nuScenes dataset.*
 
@@ -21,7 +25,7 @@ This repository contains the empirical data logs and visual simulation results f
 
 ---
 
-### 📊 Empirical Data Logs
+### 📊 Data Logs
 *The raw CSV telemetry captured during the simulations.*
 
 **CPU vs. GPU Benchmarks (Execution Latency & PCIe Bottlenecks)**
